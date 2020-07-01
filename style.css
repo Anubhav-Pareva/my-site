@@ -1,0 +1,108 @@
+body{
+	margin: 0;
+	padding: 5vh;
+	padding-top: 0;
+	padding-bottom: 0;
+	text-align: center;
+	font-family: 'Yellowtail'
+}
+.header{
+	background-color: #87dfd6;
+	padding-top: 15vh;
+	margin: 0px 0.5%;
+}
+.middle-section{
+	background-color:#01a9b4;
+	margin: 0px 0.5%; 
+}
+.footer{
+	background-color: #086972;
+	padding-top: 5vh;
+	margin: 0px 0.5%;
+}
+.cloud1{
+	position: relative;
+	left:30%;
+	top: 30%;
+	width: 10%;
+}
+.cloud2{
+	position: relative;
+	right: 30%;
+	top: 9rem;
+	width: 10%;
+}
+.mountain{
+	width: 50%;
+}
+.tag{
+	font-size: 1.5rem;
+	font-family: 'Yellowtail' sans-serif;
+	width: 40%;
+	margin: 0px auto;
+}
+.propic{
+	border-radius: 20rem;
+	height: 30rem;
+	margin-top: 5rem;
+}
+.picgif{
+	border-radius: 8rem;
+	width: 25%;
+	height: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.divsection{
+	margin-top: 100px;
+}
+.content{
+	font-size: 1.3rem;
+	width: 50%;
+	margin: 0px auto;
+	margin-bottom: 2vh;
+	font-family: 'MuseoModerno' sans-serif;
+	line-height: 2;
+}
+.btn{
+	background-color: #1b6ca8;
+	padding: 1vh;
+	border-radius: 2rem;
+	text-decoration: none;
+}
+.contactmediv{
+	padding-bottom: 2vh;
+}
+.footerimg{
+	height: 10%;
+	border-radius: 1rem;
+	width: 10%;
+}
+.onemore{
+	margin: 70px;
+}
+h1{
+	font-size: 3rem;
+	font-family: 'Yellowtail' sans-serif;
+	color: #1d1b38;
+	width: 70%;
+	margin: 0px auto;
+}
+h2{
+	font-size: 2rem;
+	color: #1d1b38;
+}
+h3{
+	font-size: 1.5rem;
+	color: #1d1b38;
+	width: 50%;
+	margin: 0px auto;
+}
+table{
+	margin: 0px auto;
+	text-align: left;
+	width: 60%;
+}
+td{
+	border: 1px solid #333;
+}
